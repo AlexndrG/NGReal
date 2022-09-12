@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/NGReal/static/css/main.ed5a835f.css",
-    "main.js": "/NGReal/static/js/main.108a4435.js",
+    "main.js": "/NGReal/static/js/main.8c826b19.js",
+    "static/media/loader.gif": "/NGReal/static/media/loader.b64852305b84d35bcff9.gif",
     "index.html": "/NGReal/index.html",
     "main.ed5a835f.css.map": "/NGReal/static/css/main.ed5a835f.css.map",
-    "main.108a4435.js.map": "/NGReal/static/js/main.108a4435.js.map"
+    "main.8c826b19.js.map": "/NGReal/static/js/main.8c826b19.js.map"
   },
   "entrypoints": [
     "static/css/main.ed5a835f.css",
-    "static/js/main.108a4435.js"
+    "static/js/main.8c826b19.js"
   ]
 }
